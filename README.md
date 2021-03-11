@@ -1,4 +1,4 @@
-# MyAlbumApplication
+# Kenneth Fonseca 10 de Marzo de 2021
 Applicacion en Net Core para obtener json de varias url y mostrar en una Tabla
 Se abre el menu de Opciones y deben hacer clic en Album de Fotos
 posteriormente las acciones solicitadas estan en los botones correspondientes
