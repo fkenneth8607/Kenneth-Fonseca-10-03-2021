@@ -5,7 +5,7 @@ Se abre el menu de Opciones y deben hacer clic en Album de Fotos
 posteriormente las acciones solicitadas estan en los botones correspondientes
 
 
-Se Estructura el Codigo en distintos proyectos por lo siguiente
+Se Estructura el Codigo en distintos proyectos por lo siguiente:
 
 Proyecto MyAlbumApplication
   - Es un proyecto Por Defecto que se crea en Net Core, Solo elimine modelos por que lo pase al Core
