@@ -18,7 +18,7 @@ Proyecto MyAlbumApplication.Core
 Proyecto MyAlbumApplication.Infrasctructure
  -  Contiente los Servicios que Implementan las Interfaces de Core, estos servicios contienen mas logica a la hora de procesar Informacion  Para Evitar este codigo en los controladores
  -  Contiene tambien los Helpers que vayan surgiendo por ejemplo un EmailHelper, un PdfHelper los colocaria aqui y los llamaria desde un servicio
-  En esteProyecto cree un metodo para la inyeccion de dependencias e insertarlas aqui, asi solo en el startup llamamos a AddInfraestructureService y no estamos llenando el startup  con AddScoped, o AddTransient Por Ejemplo
+ -  En esteProyecto cree un metodo para la inyeccion de dependencias e insertarlas aqui, asi solo en el startup llamamos a AddInfraestructureService y no estamos llenando el startup  con AddScoped, o AddTransient Por Ejemplo
   
   
   
